@@ -1,3 +1,8 @@
+# [2.1.0]
+
+- Updates the minimum supported SDK version to Flutter 3.44/Dart 3.12.
+- Migrates to built-in Kotlin (AGP 9).
+
 # [2.0.12]
 
 - Fix an Android NullPointerException that sometimes occurred when apps were backgrounded.
